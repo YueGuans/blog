@@ -1,0 +1,25 @@
+html,body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #eaeaea;
+    /* background-color:   #F9FBFC; */
+  }
+  
+  .w {
+    position:absolute;
+    width: 1100px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  
+  .R {
+    float: right;
+  }
+  
+  .L {
+    float: left;
+  }
+  
